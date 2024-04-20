@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-04-20T16:42:00.446Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="JmW8vPfDJKM6RJyNIe_-" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-04-20T17:14:19.746Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="-hp_AvxzMQrqetRhL8V1" version="24.2.5" type="device">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
     <mxGraphModel dx="1847" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1683,6 +1683,12 @@
         </mxCell>
         <mxCell id="33nvoL1grRUddth2KiKv-15" value="+5V" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1125" y="1589" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33nvoL1grRUddth2KiKv-18" value="Cabin Downlight 5581&lt;br&gt;&amp;nbsp;(Red + White)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-798.64" y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33nvoL1grRUddth2KiKv-19" value="Cabin Downlight 5581&lt;br&gt;(White)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="340" width="158" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
